@@ -1,2 +1,2 @@
-# dhcrepo
-Helm Charts repo
+# DHCRepo
+Repository for HELM Charts
