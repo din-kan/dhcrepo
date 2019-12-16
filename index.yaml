@@ -3,12 +3,12 @@ entries:
   fluentd-cloudwatch:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2019-12-16T09:08:55.630546204+11:00"
+    created: "2019-12-16T12:31:19.67269701+11:00"
     description: A Helm chart for Openshift 3.11
-    digest: 122c29129eeddeab822ab15c6df7bf3f1fdd22c198e3877d5a41272f5fdc31ab
+    digest: 57db84321f6481f983e07c23ab4fd56517ffed3566099d2a86bf27a9bfdf8c3f
     name: fluentd-cloudwatch
     type: application
     urls:
     - fluentd-cloudwatch-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-16T09:08:55.629580126+11:00"
+generated: "2019-12-16T12:31:19.671189446+11:00"
